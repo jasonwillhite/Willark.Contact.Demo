@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VW158MEYTDIa48ywpaDSgIylcgdrUAmok5uj09OzK3BPU8qcNVX4p+pDWKVvvVIyQpsDOx8nm6QWbXmVIdiP6Q==",
+  "success": true,
+  "projectFilePath": "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/Willhites/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/Willhites/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

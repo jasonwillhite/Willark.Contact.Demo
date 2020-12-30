@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo.csproj": {}
+  },
+  "projects": {
+    "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo.csproj",
+        "projectName": "Willark.Contact.Demo",
+        "projectPath": "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo.csproj",
+        "packagesPath": "/Users/Willhites/.nuget/packages/",
+        "outputPath": "/Users/Willhites/Projects/github/Willark.Contact.Demo/Willark.Contact.Demo/Willark.Contact.Demo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Willhites/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://go.microsoft.com/fwlink/?LinkID=230477": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.6.0.1141, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
